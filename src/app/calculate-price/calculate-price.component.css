@@ -1,0 +1,27 @@
+table {
+  width: 50%;
+  margin-bottom: 31px;
+  height: 100%;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.total-calc {
+  display: flex;
+  justify-content: center;
+}
+
+.total-calc-container {
+  width: 400px;
+  margin: auto;
+  text-align: left;
+}
+
+.cost-label {
+  display: block;
+  margin-bottom: 6px;
+}

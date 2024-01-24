@@ -1,0 +1,9 @@
+table {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+button {
+  float: right;
+  margin-right: 20px;
+}
